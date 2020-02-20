@@ -4,4 +4,9 @@ ccccc
 ddddd
 eeeee
 edit in hot_fix branch
+<<<<<<< HEAD
 second edit in hot_fix branch
+=======
+
+master branch  edit 
+>>>>>>> master
